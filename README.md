@@ -9,3 +9,7 @@ The features and apperances of the text here are also subject to change.
 
 + - [x]  [Learn HTML & CSS - Shay Howe](https://learn.shayhowe.com/)
 +  - [x] [Learn Advanced HTML & CSS - Shay Howe](https://learn.shayhowe.com/advanced-html-css/)
+
+## ***2. Python***
+
+
