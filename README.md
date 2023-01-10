@@ -1,5 +1,5 @@
 # OER-Cafe
-This is the list of the programming books and lessons that we recommend. The books can effectively be accessed by a smartphone or any device.
+This is the list of programming books and lessons taught in English. These Open Education Resources (OERs) can effectively be accessed by any smartphone or a device that can browse the internet.
 
 ***Note***: This list is currently under maintentance. We will update it by adding more books as days go by.
 
