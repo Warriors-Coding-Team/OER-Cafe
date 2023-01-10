@@ -5,4 +5,4 @@ Essentially, most of these resources can be found on the Free Ebook Foudation's 
 
 ## ***1. HTML & CSS***
 
-+ - []  Learn HTML & CSS - Shay Howe
++ - [ ]  Learn HTML & CSS - Shay Howe
