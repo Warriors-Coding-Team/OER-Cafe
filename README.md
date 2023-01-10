@@ -8,3 +8,4 @@ The features and apperances of the text here are also subject to change.
 ## ***1. HTML & CSS***
 
 + - [x]  [Learn HTML & CSS - Shay Howe](https://learn.shayhowe.com/)
++  - [x] [Learn Advanced HTML & CSS - Shay Howe](https://learn.shayhowe.com/advanced-html-css/)
