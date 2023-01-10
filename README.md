@@ -12,4 +12,5 @@ The features and apperances of the text here are also subject to change.
 
 ## ***2. Python***
 
++ - [x]   [Think Python 2e - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
 
