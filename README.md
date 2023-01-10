@@ -14,3 +14,4 @@ The features and apperances of the text here are also subject to change.
 
 + - [x]   [Think Python 2e - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
 + - [x] [PYTHON PROGRAMMING EXERCISES, GENTLY EXPLAINED - Al Sweigart](https://inventwithpython.com/pythongently/)
++  - [x] [Think Complexity 2e - Allen B. Downey](https://greenteapress.com/complexity2/html/index.html)
