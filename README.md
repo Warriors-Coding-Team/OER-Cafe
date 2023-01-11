@@ -19,7 +19,7 @@ The features and apperances of the text here are also subject to change.
 +  - [x] [Think Complexity 2e - Allen B. Downey](https://greenteapress.com/complexity2/html/index.html)
 +   - [x] [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-## *** 3. JavaScript***
+## ***3. JavaScript***
 
 + - [x] [The Modern JavaScript Tutorial - Ilya Kantor](https://javascript.info/)
 + - [x] [Eloquent JavaScript 3e - Marijn Haverbeke](https://eloquentjavascript.net/)
