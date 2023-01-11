@@ -3,7 +3,7 @@ This is the list of programming books and lessons taught in English. These Open 
 
 ***Links text format***: *'Name of the book'* - *'Name of author.'* The ticked books shows those that have exercises at chapter ends.
 
-The learning here prepares you to join certificate programs by freeCodeCamp and other instituitions.
+The learning here prepares you to join certificate programs by freeCodeCamp and other institutions.
 
 ***NB***: This list is currently under maintentance; we will update it by adding more books as days go by.
 
