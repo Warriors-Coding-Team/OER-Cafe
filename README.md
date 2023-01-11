@@ -1,6 +1,8 @@
 # OER-Cafe
 This is the list of programming books and lessons taught in English. These Open Education Resources (OERs) can effectively be accessed by a smartphone or a desktop computer.
 
+Links text format: 'Name of the book' - 'Name of author.' The ticked books shows those that are highly recommended while the unticked shows those that are lightly recommended.
+
 The learning here prepares you to join certificate programs by freeCodeCamp and other instituitions.
 
 ***Note***: This list is currently under maintentance; we will update it by adding more books as days go by.
